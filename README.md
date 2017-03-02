@@ -1,6 +1,3 @@
-# hello-world
-Premier projet, stockage idée
-
 #**Projets Restos du Coeur**
 
 ###**Page "contact.html"**
