@@ -3,7 +3,7 @@
 ###**Page "contact.html"**
   - [x] Supprimer onglet "MIGRANTS"
   - [x] Supprimer sous-onglet "Les 30 ans des Restos"
-  - [ ] Convertir en utf-8
+  - [x] Convertir en utf-8
   
 ###**Trouver idées pour améliorer site**
   - Faciliter le droit à la modification
