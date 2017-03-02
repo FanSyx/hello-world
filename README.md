@@ -1,8 +1,8 @@
 #**Projets Restos du Coeur**
 
 ###**Page "contact.html"**
-  - [ ] Supprimer onglet "MIGRANTS"
-  - [ ] Supprimer sous-onglet "Les 30 ans des Restos"
+  - [x] Supprimer onglet "MIGRANTS"
+  - [x] Supprimer sous-onglet "Les 30 ans des Restos"
   - [ ] Convertir en utf-8
   
 ###**Trouver idées pour améliorer site**
