@@ -14,7 +14,7 @@
   - [x] Convertir en utf-8
   - [ ] Ajouter onglet "NOS ACTIONS"
   
-#####**Page "navbar.html**
+#####**Page "navbar.html"**
   - [ ] Ajouter tous les onglets
   
 #####**Page "index.html"**
