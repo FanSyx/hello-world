@@ -12,7 +12,7 @@
   - [x] Supprimer onglet "MIGRANTS"
   - [x] Supprimer sous-onglet "Les 30 ans des Restos"
   - [x] Convertir en utf-8
-  - [ ] Ajouter onglet vacances dans "NOS ACTIONS"
+  - [x] Ajouter onglet vacances dans "NOS ACTIONS"
   
 #####**Page "navbar.html"**
   - [ ] Ajouter tous les onglets
@@ -20,6 +20,10 @@
 #####**Page "index.html"**
   - [ ] Ajouter titre "Les restaurants du coeur"
   - [ ] Ajouter un h1 (gros titre)
+  
+#####**Divers**
+  - [ ] regarder bootstrap
+  - [ ] regarder cmder
   
   
 #**Projets IG2I**
