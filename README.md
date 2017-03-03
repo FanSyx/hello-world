@@ -12,7 +12,7 @@
   - [x] Supprimer onglet "MIGRANTS"
   - [x] Supprimer sous-onglet "Les 30 ans des Restos"
   - [x] Convertir en utf-8
-  - [ ] Ajouter onglet "NOS ACTIONS"
+  - [ ] Ajouter onglet vacances dans "NOS ACTIONS"
   
 #####**Page "navbar.html"**
   - [ ] Ajouter tous les onglets
